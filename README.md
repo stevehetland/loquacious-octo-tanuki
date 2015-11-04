@@ -1,2 +1,2 @@
 # loquacious-octo-tanuki
-Temporary repo to play around with
+Permanent repo to play around with
